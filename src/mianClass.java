@@ -66,7 +66,7 @@ class finMo extends JFrame{
 
         /* --- from here you can start coding, shreya
 
-               you can get the get the sequence by saying m.getSequence()
+               you can get the  sequence by saying m.getSequence()
                and the motif is directly available
                also, you can call any other function of m.
                do refer the code I sent you in c
